@@ -7,7 +7,11 @@
 
 # 사용 기술셋
 
-Java Script / Axios / Vue.js / Google Chart / Word Cloud (anychart) / JSP / JSON Data / CSS / HTML
+RDBMS : Oracle
+Java Script / Axios / Vue.js / Google Chart / Word Cloud (anychart) / JSP / JSON Data / CSS / HTML	Development Language : Java / Java Script / HTML / CSS
+Library: Axios
+Web Development : Vue.js / JSP
+Tool : Google Chart / Word Cloud(anychart)/ CSV to Jason converter 
 
 # 개발 환경
 
